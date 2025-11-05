@@ -6,7 +6,7 @@
 
 The **Retail Sales Analysis Dashboard** is an interactive **Power BI project** designed to analyze the sales performance, customer behavior, and revenue trends of a retail business across multiple e-commerce platforms.  
 
-This Power BI project explores the story behind retail sales data — transforming numbers into insights.  
+This Power BI project explores the story behind retail sales data transforming numbers into insights.  
 The dashboard reveals key trends in **sales performance**, **revenue growth**, and **customer demographics**, helping decision-makers identify profitable channels, boost customer retention, and optimize business growth.
 
 ---
@@ -72,13 +72,13 @@ Retail-Sales-Analysis-PowerBI/
 ## 🖼️ Dashboard Visuals
 
 ### 1️⃣ Sales Analysis
-![Sales Analysis](Images/Sales%20analysis.png)
+![Sales Analysis](Images/Sales_Analysis.png)
 
 ### 2️⃣ Revenue Analysis
-![Revenue Analysis](Images/Revenue%20analysis.png)
+![Revenue Analysis](Images/Revenue_Analysis.png)
 
 ### 3️⃣ Customer Analysis
-![Customer Analysis](Images/Customer%20analysis.png)
+![Customer Analysis](Images/Customer_Analysis.png)
 
 ### 4️⃣ Insights
 ![Insights](Images/Insights.png)
